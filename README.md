@@ -1,2 +1,9 @@
-# credit_risk_intelligence
-It's a credit risk project that predicts whether a borrower will default on loan. It's a ML project is that I didn't just build a model — I also added explainability using SHAP so you can see why a borrower was flagged as risky, a fairness audit to make sure the model isn't biased, and an AI integration writes a credit officer memo in plain English
+# Credit Risk Intelligence Platform
+
+End-to-end credit risk analysis pipeline built on 31,677 borrowers — from raw data to AI-generated credit officer memos.
+
+# What this project does
+
+Predicts loan default risk using machine learning, explains each prediction using SHAP, and generates plain-English credit memos via the Groq API.
+
+Result: XGBoost model achieving 0.9519 ROC-AUC
