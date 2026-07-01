@@ -1,0 +1,5 @@
+person_home_ownership,total,actual_def,predicted_def,avg_prob,approval_rate,DIR,fair
+MORTGAGE,2617,0.119,0.148,0.201,0.852,0.931,True
+OTHER,26,0.269,0.346,0.38,0.654,0.715,False
+OWN,473,0.085,0.085,0.087,0.915,1.0,True
+RENT,3220,0.312,0.361,0.397,0.639,0.698,False

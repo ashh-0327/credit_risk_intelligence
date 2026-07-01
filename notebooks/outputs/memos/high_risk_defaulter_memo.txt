@@ -1,0 +1,23 @@
+CREDIT OFFICER MEMO  
+═══════════════════════════════════════  
+
+**APPLICANT SUMMARY**  
+The applicant is a 22‑year‑old renter with no prior employment history and an annual income of $14,400. They are seeking a $4,400 loan (approximately 31% of annual income) for home‑improvement purposes and have been assigned a grade “E” loan with an interest rate of 19.91%.
+
+**RISK ASSESSMENT**  
+Default Probability: **100%**  
+Risk Tier: **Very High**  
+Recommended Action: **Decline or refer to financial counselling**
+
+**KEY RISK FACTORS**  
+1. **Low annual income** – The borrower’s income of $14,400 places them in the lowest income bracket for our portfolio. Limited earnings reduce the ability to meet monthly debt obligations, markedly raising default risk.  
+2. **High debt‑to‑income (DTI) ratio** – With a DTI of 30.6%, a large share of the applicant’s income is already committed to existing debt. A DTI above 30% is a strong indicator that additional loan payments could become unmanageable.  
+3. **Unstable housing situation** – The applicant rents and scores a low “home‑ownership stability” score of 3 (on a scale where higher values indicate greater stability). Lack of stable residence often correlates with cash‑flow volatility and higher default likelihood.
+
+**MITIGATING FACTORS**  
+- **Loan size relative to income** – The requested loan represents 31% of annual income, which is modest compared with many higher‑risk loans and slightly reduces exposure.  
+- **Interest rate relative to grade average** – At 19.91%, the rate is only marginally above the average for an “E” grade, providing a small cushion against default.  
+- **Loan amount per year of credit history** – Although the applicant has no credit history, the loan size of $4,400 spread over an assumed zero‑year credit baseline results in a low per‑year exposure, modestly lowering risk.
+
+**RECOMMENDATION**  
+Given the applicant’s very low income, zero employment tenure, high debt‑to‑income ratio, and unstable housing situation, the overall risk profile is unacceptable. The model assigns a 100% default probability and places the loan in the “Very High” risk tier. While the loan amount is modest relative to income and the interest rate is near the grade average, these mitigating factors are insufficient to offset the dominant risk drivers. I recommend declining the application and, if appropriate, referring the borrower to financial counselling services to improve income stability and credit standing before reconsideration.

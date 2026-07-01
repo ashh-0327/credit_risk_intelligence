@@ -1,0 +1,23 @@
+**CREDIT OFFICER MEMO**  
+═══════════════════════════════════════  
+
+**APPLICANT SUMMARY**  
+The applicant is a 27‑year‑old borrower with an annual income of $44,000 and no documented employment history. He is seeking a $6,000 loan for education purposes and currently owns a home with an existing mortgage. The loan is priced at a 13.23% interest rate and has been assigned a grade “C”.
+
+**RISK ASSESSMENT**  
+Default Probability: **50%**  
+Risk Tier: **High**  
+Recommended Action: **Senior review required + collateral check**  
+
+**KEY RISK FACTORS**  
+1. **Low employment stability** – The borrower reports **0 years of employment**. Lack of a stable income source raises the likelihood that he will be unable to meet repayment obligations.  
+2. **High interest rate** – The loan carries a **13.23%** rate, which is relatively steep for a $6,000 education loan. A higher cost of borrowing increases the monthly payment burden and the chance of default.  
+3. **Low logged annual income** – Although the stated income is $44,000, the model’s income metric (log‑scaled) flags this level as a risk driver. At this income level, the borrower’s capacity to absorb unexpected expenses is limited, contributing to a higher default risk.  
+
+**MITIGATING FACTORS**  
+- **Debt‑to‑income ratio of 13.6%** – This ratio is well below typical underwriting thresholds, indicating that the borrower’s existing debt load is modest relative to his earnings.  
+- **Interest‑burden relative to income of 1.8%** – The portion of income required to service the loan interest is minimal, reducing immediate cash‑flow pressure.  
+- **Loan grade “C” (score 3 on a 1‑7 scale)** – While not the highest grade, a “C” reflects a moderate risk profile compared with lower grades, providing some cushion against default.  
+
+**RECOMMENDATION**  
+Given the borrower’s **50% default probability**, **high risk tier**, and the presence of three significant risk drivers—no employment history, a high interest rate, and limited income capacity—we recommend that the loan **not be approved in its current form**. If the institution wishes to consider the request, a senior officer must conduct a detailed review and require **collateral** (e.g., a lien on the existing mortgage) to mitigate exposure. Absent such safeguards, the financial risk outweighs the modest protective factors identified.
